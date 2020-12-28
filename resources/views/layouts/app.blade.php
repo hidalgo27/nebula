@@ -4,9 +4,9 @@
     <!--Meta Tags-->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="keywords" content="agency, business, corporate, creative, freelancer, interior, minimal, modern, multipurpose, personal, portfolio, responsive, simple" />
-    <meta name="description" content="ajax portfolio one page" />
-    <meta name="author" content="cosmos-themes" />
+{{--    <meta name="keywords" content="agency, business, corporate, creative, freelancer, interior, minimal, modern, multipurpose, personal, portfolio, responsive, simple" />--}}
+    <meta name="description" content="Nebula hace realidad tus proyectos." />
+    <meta name="author" content="hidalgo" />
 
     <!--PAGE TITLE-->
     <title>Nebula</title>
