@@ -11,6 +11,6 @@ class HomepageController extends Controller
         return view('page.index');
     }
     public function web(){
-        return view('page.project01');
+        return view('page.paginas');
     }
 }

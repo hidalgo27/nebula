@@ -42,7 +42,7 @@
         <!--HEADER START-->
         <header>
             <div class="logo-container">
-                <a href="index.html" id="logo" class="cursor-link" data-type="page-transition">
+                <a href="{{route('home_path')}}" id="logo" class="cursor-link" data-type="page-transition">
                     <img src="images/logo.png" alt="logo">
                 </a>
             </div>
@@ -95,10 +95,43 @@
         <!--MENU OVERLAY END-->
 
 
+        <!--SCROLL CONTENT START-->
+        <div id="scroll-content">
+            @yield('section')
+                <!--FOOTER START-->
+                <footer>
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-8">
+                                <div class="copyright-text">
+                                    <p>&copy; 2020 Nebula. All Right Reserved.</p>
+                                </div>
+                            </div>
+                            <div class="col-4">
+                                <div id="scroll-top" class="back-top">
+                                    <span>Volver arriba</span>
+                                    <div class="arrow-up">
+                                        <div class="parallax-wrap">
+                                            <div class="parallax-icon">
+                                                <i class="fas fa-arrow-up"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </footer>
+                <!--FOOTER END-->
+        </div>
+        <!--SCROLL CONTENT END-->
 
         <!--PAGE CONTENT START-->
-        @yield('content')
-        <!--PAGE CONTENT END-->
+        <div class="page-content">
+            @yield('content')
+            <!--PAGE CONTENT END-->
+        </div>
 
     </div>
 </div>
