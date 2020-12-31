@@ -135,13 +135,12 @@
                     <div class="row">
                         <div class="col">
                             <div class="next-subtitle fade-up">Siguiente</div>
-                            <div class="next-title fade-up"><a href="{{route('web_path')}}" class="cursor-link link-underline" data-type="page-transition">Community Manager</a></div>
+                            <div class="next-title fade-up"><a href="{{route('community_path')}}" class="cursor-link link-underline" data-type="page-transition">Community Manager</a></div>
                         </div>
                     </div>
                 </div>
             </div>
             <!--NEXT PROJECT LINK END-->
-
         </div>
         <!--PAGE CONTENT END-->
 

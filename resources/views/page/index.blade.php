@@ -28,9 +28,9 @@
                 </div>
                 <div class="slide-content">
                     <div class="slide-content-inner">
-                        <div class="item-cat">desde s/.350</div>
+                        <div class="item-cat">Desde s/.350</div>
                         <h2 class="item-title" data-splitting>Community Manager.</h2>
-                        <a href="{{route('web_path')}}" data-type="page-transition" class="item-link link-underline cursor-link">Ver detalles</a>
+                        <a href="{{route('community_path')}}" data-type="page-transition" class="item-link link-underline cursor-link">Ver detalles</a>
                     </div>
                 </div>
             </div>
@@ -43,9 +43,9 @@
                 </div>
                 <div class="slide-content">
                     <div class="slide-content-inner">
-                        <div class="item-cat">desde s/.99</div>
+                        <div class="item-cat">Desde s/.99</div>
                         <h2 class="item-title" data-splitting>Logos / Branding.</h2>
-                        <a href="{{route('web_path')}}" data-type="page-transition" class="item-link link-underline cursor-link">Ver Detalles</a>
+                        <a href="{{route('logos_path')}}" data-type="page-transition" class="item-link link-underline cursor-link">Ver Detalles</a>
                     </div>
                 </div>
             </div>
@@ -58,7 +58,7 @@
 
                 <div class="slide-content">
                     <div class="slide-content-inner">
-                        <div class="item-cat">desde s/.1200</div>
+                        <div class="item-cat">Desde s/.1200</div>
                         <h2 class="item-title" data-splitting >Tiendas Online.</h2>
                         <a href="{{route('web_path')}}" data-type="page-transition" class="item-link link-underline cursor-link">Ver Detalles</a>
                     </div>

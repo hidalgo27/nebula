@@ -2,14 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd13588b-e6f0-4840-b1f2-85272c30f05d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/page/community.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/page/logos.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/page/tienda.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Page/HomepageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Page/HomepageController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/page/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/page/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/page/paginas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/page/paginas.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -161,7 +170,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608643032876</updated>
-      <workItem from="1608643040948" duration="12252000" />
+      <workItem from="1608643040948" duration="12556000" />
+      <workItem from="1609253001114" duration="114000" />
+      <workItem from="1609372833978" duration="162000" />
+      <workItem from="1609373041608" duration="3850000" />
     </task>
     <servers />
   </component>
@@ -178,5 +190,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

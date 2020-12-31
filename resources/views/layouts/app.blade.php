@@ -43,7 +43,7 @@
         <header>
             <div class="logo-container">
                 <a href="{{route('home_path')}}" id="logo" class="cursor-link" data-type="page-transition">
-                    <img src="images/logo.png" alt="logo">
+                    <img src="{{asset('images/logo-nebula2.png')}}" alt="logo">
                 </a>
             </div>
 
@@ -57,8 +57,8 @@
                 </div>
                 <div class="burger-text">
                     <div class="text-menu">MENU</div>
-                    <div class="text-open">OPEN</div>
-                    <div class="text-close">CLOSE</div>
+                    <div class="text-open">ABRIR</div>
+                    <div class="text-close">CERRAR</div>
                 </div>
             </div>
 
@@ -77,10 +77,10 @@
                         </ul>
                     </nav>
                     <div class="company-info">
-                        <a href="#" class="info-email link-underline cursor-link">hello@example.com</a><br>
-                        <a href="#" class="info-tel link-underline cursor-link">(222) 123-4567</a>
+                        <a href="#" class="info-email link-underline cursor-link">info@nebulaperu.com</a><br>
+                        <a href="#" class="info-tel link-underline cursor-link">960106076</a>
                         <div class="info-address">
-                            <p>121 King St, Melbourne VIC 3000, Australia.</p>
+                            <p>Av. El Sol 449 - Cusco - Perú.</p>
                         </div>
                         <ul class="sm-links">
                             <li><a href="#" class="cursor-link"><i class="fab fa-instagram"></i></a></li>

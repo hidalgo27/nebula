@@ -26,3 +26,15 @@ Route::get('/paginas-web/', [
     'uses' => 'App\Http\Controllers\Page\HomepageController@web',
     'as' => 'web_path'
 ]);
+Route::get('/community-manager/', [
+    'uses' => 'App\Http\Controllers\Page\HomepageController@community',
+    'as' => 'community_path'
+]);
+Route::get('/logos-branding/', [
+    'uses' => 'App\Http\Controllers\Page\HomepageController@logos',
+    'as' => 'logos_path'
+]);
+Route::get('/tiendas-online/', [
+    'uses' => 'App\Http\Controllers\Page\HomepageController@tiendas',
+    'as' => 'tiendas_path'
+]);
