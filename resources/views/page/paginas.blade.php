@@ -56,20 +56,20 @@
                         </div>
                     </div>
 
-                    <!--PROJECT PERIOD-->
-                    <div class="row project-period mt-40">
-                        <div class="col-md-3">
+{{--                    <!--PROJECT PERIOD-->--}}
+{{--                    <div class="row project-period mt-40">--}}
+{{--                        <div class="col-md-3">--}}
 {{--                            <h4 class="project-sectionTitle fade-up">Period</h4>--}}
 {{--                            <p class="fade-up" data-delay="50">January to June 2018</p>--}}
-                        </div>
+{{--                        </div>--}}
 
-                        <!--PROJECT WEBSITE LINK-->
-                        <div class="col-md-9">
+{{--                        <!--PROJECT WEBSITE LINK-->--}}
+{{--                        <div class="col-md-9">--}}
 {{--                            <a href="https://www.behance.net/gallery/93523479/VC-T7" target="_blank" class="link-underline cursor-link fade-up" data-delay="0">Visit Live Version</a>--}}
-                            <p>Optimizamos y pulimos cada detalle para que tu nueva página web sea escalable, medible y compatible con otras acciones futuras, como el SEO.</p>
-                        </div>
+{{--                            <p>Optimizamos y pulimos cada detalle para que tu nueva página web sea escalable, medible y compatible con otras acciones futuras, como el SEO.</p>--}}
+{{--                        </div>--}}
 
-                    </div>
+{{--                    </div>--}}
                 </div>
             </div>
             <!--PROJECT INFO END-->
@@ -87,7 +87,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-10 offset-md-1">
-                            <h3 class="text-center text-animate text-fadeIn fade-up" data-splitting="words">I’ve always loved watches my whole life. When I was growing up, I always thought of having a great watch as that next step – of making it, of a rite of passage.</h3>
+                            <h3 class="text-center text-animate text-fadeIn fade-up" data-splitting="words">Optimizamos y pulimos cada detalle para que tu nueva página web sea escalable, medible y compatible con otras acciones futuras, como el SEO.</h3>
                         </div>
                     </div>
                 </div>
