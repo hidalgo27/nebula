@@ -132,7 +132,7 @@
                 <div class="row">
                     <div class="col">
                         <div class="next-subtitle fade-up">Siguiente</div>
-                        <div class="next-title fade-up"><a href="project05.html" class="cursor-link link-underline" data-type="page-transition">Fotoproducto + Producción audiovisual.</a></div>
+                        <div class="next-title fade-up"><a href="{{route('fotoproducto_path')}}" class="cursor-link link-underline" data-type="page-transition">Fotoproducto + Producción audiovisual.</a></div>
                     </div>
                 </div>
             </div>

@@ -15,7 +15,7 @@
                 <div class="slide-content">
                     <div class="slide-content-inner">
                         <div class="item-cat">Desde s/.750</div>
-                        <h2 class="item-title" data-splitting >Paginas Web.</h2>
+                        <h2 class="item-title" data-splitting >Páginas Web.</h2>
                         <a href="{{route('web_path')}}" data-type="page-transition" class="item-link link-underline cursor-link">Ver detalles</a>
                     </div>
                 </div>
@@ -60,7 +60,7 @@
                     <div class="slide-content-inner">
                         <div class="item-cat">Desde s/.1200</div>
                         <h2 class="item-title" data-splitting >Tiendas Online.</h2>
-                        <a href="{{route('web_path')}}" data-type="page-transition" class="item-link link-underline cursor-link">Ver Detalles</a>
+                        <a href="{{route('tiendas_path')}}" data-type="page-transition" class="item-link link-underline cursor-link">Ver Detalles</a>
                     </div>
                 </div>
 
@@ -77,7 +77,7 @@
                     <div class="slide-content-inner">
                         <div class="item-cat">Desde s/.20</div>
                         <h2 class="item-title" data-splitting >Fotoproducto + Producción audiovisual.</h2>
-                        <a href="{{route('web_path')}}" data-type="page-transition" class="item-link link-underline cursor-link">Ver Detalles</a>
+                        <a href="{{route('fotoproducto_path')}}" data-type="page-transition" class="item-link link-underline cursor-link">Ver Detalles</a>
                     </div>
                 </div>
             </div>
@@ -92,7 +92,7 @@
                     <div class="slide-content-inner">
                         <div class="item-cat">Desde s/.50</div>
                         <h2 class="item-title" data-splitting >Publicidad Online Google & Facebook.</h2>
-                        <a href="{{route('web_path')}}" data-type="page-transition" class="item-link link-underline cursor-link">Ver Detalles</a>
+                        <a href="{{route('publicidad_path')}}" data-type="page-transition" class="item-link link-underline cursor-link">Ver Detalles</a>
                     </div>
                 </div>
             </div>
@@ -106,7 +106,7 @@
                 <div class="slide-content">
                     <div class="slide-content-inner">
                         <div class="item-cat">Pida Cotización</div>
-                        <h2 class="item-title" data-splitting >Apps + Sistemas a Medida.</h2>
+                            <h2 class="item-title" data-splitting >Apps + Sistemas a Medida.</h2>
                         <a href="{{route('web_path')}}" data-type="page-transition" class="item-link link-underline cursor-link">Ver Detalles</a>
                     </div>
                 </div>

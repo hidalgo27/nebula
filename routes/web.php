@@ -38,3 +38,24 @@ Route::get('/tiendas-online/', [
     'uses' => 'App\Http\Controllers\Page\HomepageController@tiendas',
     'as' => 'tiendas_path'
 ]);
+Route::get('/fotoproducto/', [
+    'uses' => 'App\Http\Controllers\Page\HomepageController@fotoproducto',
+    'as' => 'fotoproducto_path'
+]);
+Route::get('/publicidad/', [
+    'uses' => 'App\Http\Controllers\Page\HomepageController@publicidad',
+    'as' => 'publicidad_path'
+]);
+Route::get('/aplicaciones/', [
+    'uses' => 'App\Http\Controllers\Page\HomepageController@aplicaciones',
+    'as' => 'aplicaciones_path'
+]);
+
+Route::get('/turismo/', [
+    'uses' => 'App\Http\Controllers\Page\HomepageController@turismo',
+    'as' => 'turismo_path'
+]);
+Route::get('/gastronomico/', [
+    'uses' => 'App\Http\Controllers\Page\HomepageController@gastronomico',
+    'as' => 'gastronomico_path'
+]);

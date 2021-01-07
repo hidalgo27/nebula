@@ -22,5 +22,20 @@ class HomepageController extends Controller
     public function tiendas(){
         return view('page.tienda');
     }
+    public function fotoproducto(){
+        return view('page.fotoproducto');
+    }
+    public function publicidad(){
+        return view('page.publicidad');
+    }
+    public function aplicaciones(){
+        return view('page.aplicaciones');
+    }
+    public function turismo(){
+        return view('page.turismo');
+    }
+    public function gastronomico(){
+        return view('page.gastronomico');
+    }
 }
 
