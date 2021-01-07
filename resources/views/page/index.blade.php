@@ -107,7 +107,7 @@
                     <div class="slide-content-inner">
                         <div class="item-cat">Pida Cotización</div>
                             <h2 class="item-title" data-splitting >Apps + Sistemas a Medida.</h2>
-                        <a href="{{route('web_path')}}" data-type="page-transition" class="item-link link-underline cursor-link">Ver Detalles</a>
+                        <a href="{{route('aplicaciones_path')}}" data-type="page-transition" class="item-link link-underline cursor-link">Ver Detalles</a>
                     </div>
                 </div>
             </div>
@@ -122,7 +122,7 @@
                     <div class="slide-content-inner">
                         <div class="item-cat">Pida Cotización</div>
                         <h2 class="item-title" data-splitting >Marketing Turístico.</h2>
-                        <a href="{{route('web_path')}}" data-type="page-transition" class="item-link link-underline cursor-link">Ver Detalles</a>
+                        <a href="{{route('turismo_path')}}" data-type="page-transition" class="item-link link-underline cursor-link">Ver Detalles</a>
                     </div>
                 </div>
             </div>
@@ -137,7 +137,7 @@
                     <div class="slide-content-inner">
                         <div class="item-cat">Pida Cotización</div>
                         <h2 class="item-title" data-splitting >Marketing Gastronómico.</h2>
-                        <a href="{{route('web_path')}}" data-type="page-transition" class="item-link link-underline cursor-link">Ver Detalles</a>
+                        <a href="{{route('gastronomico_path')}}" data-type="page-transition" class="item-link link-underline cursor-link">Ver Detalles</a>
                     </div>
                 </div>
             </div>
