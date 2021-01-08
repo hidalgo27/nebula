@@ -83,10 +83,10 @@
                             <p>Av. El Sol 449 - Cusco - Perú.</p>
                         </div>
                         <ul class="sm-links">
-                            <li><a href="#" class="cursor-link"><i class="fab fa-instagram"></i></a></li>
-                            <li><a href="#" class="cursor-link"><i class="fab fa-facebook"></i></a></li>
-                            <li><a href="#" class="cursor-link"><i class="fab fa-twitter"></i></a></li>
-                            <li><a href="#" class="cursor-link"><i class="fab fa-linkedin"></i></a></li>
+                            <li><a href="https://www.instagram.com/nebulaperu" class="cursor-link"><i class="fab fa-instagram"></i></a></li>
+                            <li><a href="https://www.facebook.com/nebulaperu" target="_blank" class="cursor-link"><i class="fab fa-facebook"></i></a></li>
+{{--                            <li><a href="#" class="cursor-link"><i class="fab fa-twitter"></i></a></li>--}}
+{{--                            <li><a href="#" class="cursor-link"><i class="fab fa-linkedin"></i></a></li>--}}
                         </ul>
                     </div>
                 </div>
