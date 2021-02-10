@@ -8,7 +8,7 @@
 
             <!--PROJECT HERO BACKGROUND IMAGE-->
             <div class="hero-image-wrapper">
-                <div class="hero-bg-image" style="background-image: url('{{asset('images/pagina-web-2/1.png')}}')"></div>
+                <div class="hero-bg-image" style="background-image: url('{{asset('images/pagina-web-2/1.jpg')}}')"></div>
             </div>
 
             <div class="container">
@@ -92,7 +92,7 @@
         <!--PROJECT FULL PARALLAX IMAGE START-->
         <div class="project-image">
             <div class="project-image--full bg-parallax fade-up">
-                <img src="{{asset('images/pagina-web-2/20.png')}}" alt="logos">
+                <img src="{{asset('images/pagina-web-2/4.jpg')}}" alt="logos">
             </div>
         </div>
         <!--PROJECT FULL PARALLAX  IMAGE END-->

@@ -7,7 +7,7 @@
         <div class="project-hero">
             <!--PROJECT HERO BACKGROUND IMAGE-->
             <div class="hero-image-wrapper">
-                <div class="hero-bg-image" style="background-image: url('{{asset('images/tiendas-online/1.png')}}')"></div>
+                <div class="hero-bg-image" style="background-image: url('{{asset('images/tiendas-online/1.jpg')}}')"></div>
             </div>
 
             <div class="container">
@@ -72,7 +72,7 @@
         <!--PROJECT FULL PARALLAX IMAGE START-->
         <div class="project-image">
             <div class="project-image--full bg-parallax fade-up">
-                <img src="{{asset('images/tiendas-online/3.png')}}" alt="">
+                <img src="{{asset('images/tiendas-online/3.jpg')}}" alt="">
             </div>
         </div>
         <!--PROJECT FULL PARALLAX IMAGE END-->
@@ -97,18 +97,18 @@
                     <div class="col owl-carousel owl-theme link-popup fade-up">
 
                         <!--CAROUSEL ITEM-->
-                        <a href="{{asset('images/tiendas-online/5.png')}}" class="image-link">
-                            <img src="{{asset('images/tiendas-online/5.png')}}" alt="e-commerce">
+                        <a href="{{asset('images/tiendas-online/5.jpg')}}" class="image-link">
+                            <img src="{{asset('images/tiendas-online/5.jpg')}}" alt="e-commerce">
                         </a>
 
                         <!--CAROUSEL ITEM-->
-                        <a href="{{asset('images/tiendas-online/6.png')}}" class="image-link">
-                            <img src="{{asset('images/tiendas-online/6.png')}}" alt="e-commerce">
+                        <a href="{{asset('images/tiendas-online/6.jpg')}}" class="image-link">
+                            <img src="{{asset('images/tiendas-online/6.jpg')}}" alt="e-commerce">
                         </a>
 
                         <!--CAROUSEL ITEM-->
-                        <a href="{{asset('images/tiendas-online/8.png')}}" class="image-link">
-                            <img src="{{asset('images/tiendas-online/8.png')}}" alt="e-commerce">
+                        <a href="{{asset('images/tiendas-online/8.jpg')}}" class="image-link">
+                            <img src="{{asset('images/tiendas-online/8.jpg')}}" alt="e-commerce">
                         </a>
 
                     </div>
@@ -121,7 +121,7 @@
         <!--PROJECT FULL PARALLAX IMAGE START-->
         <div class="project-image pt-row">
             <div class="project-image--full bg-parallax fade-up">
-                <img src="{{asset('images/tiendas-online/3.png')}}" alt="e-commerce">
+                <img src="{{asset('images/tiendas-online/3.jpg')}}" alt="e-commerce">
             </div>
         </div>
         <!--PROJECT FULL PARALLAX IMAGE END-->

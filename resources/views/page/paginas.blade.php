@@ -10,7 +10,7 @@
 
                 <!--PROJECT HERO BACKGROUND IMAGE-->
                 <div class="hero-image-wrapper">
-                    <div class="hero-bg-image" style="background-image: url('{{asset('images/pagina-web/7.png')}}')"></div>
+                    <div class="hero-bg-image" style="background-image: url('{{asset('images/pagina-web/7.jpg')}}')"></div>
                 </div>
                 <div class="container">
                     <div class="row">
@@ -77,7 +77,7 @@
             <!--PROJECT FULL PARALLAX IMAGE START-->
             <div class="project-image">
                 <div class="project-image--full bg-parallax fade-up">
-                    <img src="{{asset('images/pagina-web/1.png')}}" alt="paginas web">
+                    <img src="{{asset('images/pagina-web/1.jpg')}}" alt="paginas web">
                 </div>
             </div>
             <!--PROJECT FULL PARALLAX IMAGE END-->
@@ -100,7 +100,7 @@
                     <div class="row">
                         <div class="col">
                             <a href="{{asset('images/pagina-web/portafolio/gotoperu.png')}}" class="image-link fade-up">
-                                <img src="{{asset('images/pagina-web/portafolio/gotoperu.png')}}" alt="">
+                                <img src="{{asset('images/pagina-web/portafolio/gotoperu.png')}}" alt="" class="w-100">
                             </a>
                         </div>
                     </div>

@@ -8,7 +8,7 @@
 
             <!--PROJECT HERO BACKGROUND IMAGE-->
             <div class="hero-image-wrapper">
-                <div class="hero-bg-image" style="background-image: url('{{asset('images/campanas-publicitarias/1.png')}}')"></div>
+                <div class="hero-bg-image" style="background-image: url('{{asset('images/campanas-publicitarias/1.jpg')}}')"></div>
             </div>
 
             <div class="container">
@@ -74,7 +74,7 @@
         <!--PROJECT FULL PARALLAX IMAGE START-->
         <div class="project-image">
             <div class="project-image--full bg-parallax fade-up">
-                <img src="{{asset('images/campanas-publicitarias/2.png')}}" alt="logos">
+                <img src="{{asset('images/campanas-publicitarias/2.jpg')}}" alt="logos">
             </div>
         </div>
         <!--PROJECT FULL PARALLAX  IMAGE END-->
@@ -94,7 +94,7 @@
         <!--PROJECT FULL PARALLAX IMAGE START-->
         <div class="project-image">
             <div class="project-image--full bg-parallax fade-up">
-                <img src="{{asset('images/campanas-publicitarias/4.png')}}" alt="logos">
+                <img src="{{asset('images/campanas-publicitarias/4.jpg')}}" alt="logos">
             </div>
         </div>
         <!--PROJECT FULL PARALLAX IMAGE END-->

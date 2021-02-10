@@ -8,7 +8,7 @@
 
             <!--PROJECT HERO BACKGROUND IMAGE-->
             <div class="hero-image-wrapper">
-                <div class="hero-bg-image" style="background-image: url('{{asset('images/community-manager/2.png')}}')"></div>
+                <div class="hero-bg-image" style="background-image: url('{{asset('images/community-manager/2.jpg')}}')"></div>
             </div>
             <div class="container">
                 <div class="row">
@@ -72,7 +72,7 @@
         <!--PROJECT FULL PARALLAX IMAGE START-->
         <div class="project-image">
             <div class="project-image--full bg-parallax fade-up">
-                <img src="{{asset('images/community-manager/3.png')}}" alt="community manager">
+                <img src="{{asset('images/community-manager/3.jpg')}}" alt="community manager">
             </div>
         </div>
         <!--PROJECT FULL PARALLAX IMAGE END-->
@@ -95,7 +95,7 @@
         <!--PROJECT FULL PARALLAX IMAGE START-->
         <div class="project-image">
             <div class="project-image--full bg-parallax fade-up">
-                <img src="{{asset('images/community-manager/4.png')}}" alt="community manager">
+                <img src="{{asset('images/community-manager/4.jpg')}}" alt="community manager">
             </div>
         </div>
         <!--PROJECT FULL PARALLAX IMAGE END-->

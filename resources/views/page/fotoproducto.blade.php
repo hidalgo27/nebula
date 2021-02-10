@@ -8,7 +8,7 @@
 
             <!--PROJECT HERO BACKGROUND IMAGE-->
             <div class="hero-image-wrapper">
-                <div class="hero-bg-image" style="background-image: url('{{asset('images/fotoproductos/1.png')}}')"></div>
+                <div class="hero-bg-image" style="background-image: url('{{asset('images/fotoproductos/1.jpg')}}')"></div>
             </div>
 
             <div class="container">
@@ -74,7 +74,7 @@
         <!--PROJECT FULL PARALLAX IMAGE START-->
         <div class="project-image">
             <div class="project-image--full bg-parallax fade-up">
-                <img src="{{asset('images/fotoproductos/2.png')}}" alt="logos">
+                <img src="{{asset('images/fotoproductos/2.jpg')}}" alt="logos">
             </div>
         </div>
         <!--PROJECT FULL PARALLAX  IMAGE END-->
@@ -94,7 +94,7 @@
         <!--PROJECT FULL PARALLAX IMAGE START-->
         <div class="project-image">
             <div class="project-image--full bg-parallax fade-up">
-                <img src="{{asset('images/fotoproductos/3.png')}}" alt="logos">
+                <img src="{{asset('images/fotoproductos/3.jpg')}}" alt="logos">
             </div>
         </div>
         <!--PROJECT FULL PARALLAX IMAGE END-->
@@ -105,7 +105,7 @@
                 <div class="row">
                     <div class="col">
                         <div class="next-subtitle fade-up">Siguiente </div>
-                        <div class="next-title fade-up"><a href="{{route('tiendas_path')}}" class="cursor-link link-underline" data-type="page-transition">Publicidad Online Google & Facebook</a></div>
+                        <div class="next-title fade-up"><a href="{{route('publicidad_path')}}" class="cursor-link link-underline" data-type="page-transition">Publicidad Online Google & Facebook</a></div>
                     </div>
                 </div>
             </div>

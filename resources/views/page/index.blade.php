@@ -9,7 +9,7 @@
             <!--SLIDER ITEM-->
             <div class="slider-item">
                 <div class="slide-image">
-                    <img src="{{asset('images/pagina-web/9.png')}}" class="slide-item__image" alt="paginas web">
+                    <img src="{{asset('images/pagina-web/9.jpg')}}" class="slide-item__image" alt="paginas web">
                 </div>
 
                 <div class="slide-content">
@@ -24,7 +24,7 @@
             <!--SLIDER ITEM-->
             <div class="slider-item">
                 <div class="slide-image">
-                    <img src="{{asset('images/community-manager/6.png')}}" class="slide-item__image" alt="community manager">
+                    <img src="{{asset('images/community-manager/6.jpg')}}" class="slide-item__image" alt="community manager">
                 </div>
                 <div class="slide-content">
                     <div class="slide-content-inner">
@@ -39,7 +39,7 @@
             <!--SLIDER ITEM-->
             <div class="slider-item">
                 <div class="slide-image">
-                    <img src="{{asset('images/logo_branding/6.png')}}" class="slide-item__image" alt="logos branding">
+                    <img src="{{asset('images/logo_branding/6.jpg')}}" class="slide-item__image" alt="logos branding">
                 </div>
                 <div class="slide-content">
                     <div class="slide-content-inner">
@@ -53,7 +53,7 @@
             <!--SLIDER ITEM-->
             <div class="slider-item">
                 <div class="slide-image">
-                    <img src="{{asset('images/tiendas-online/1.png')}}" class="slide-item__image" alt="tiendas online">
+                    <img src="{{asset('images/tiendas-online/1.jpg')}}" class="slide-item__image" alt="tiendas online">
                 </div>
 
                 <div class="slide-content">
@@ -70,7 +70,7 @@
             <!--SLIDER ITEM-->
             <div class="slider-item">
                 <div class="slide-image">
-                    <img src="{{asset('images/marketing-gastronomico/1.png')}}" class="slide-item__image" alt="Fotoproducto">
+                    <img src="{{asset('images/marketing-gastronomico/1.jpg')}}" class="slide-item__image" alt="Fotoproducto">
                 </div>
 
                 <div class="slide-content">
@@ -85,7 +85,7 @@
             <!--SLIDER ITEM-->
             <div class="slider-item">
                 <div class="slide-image">
-                    <img src="{{asset('images/campanas-publicitarias/8.png')}}" class="slide-item__image" alt="publicidad online">
+                    <img src="{{asset('images/campanas-publicitarias/8.jpg')}}" class="slide-item__image" alt="publicidad online">
                 </div>
 
                 <div class="slide-content">
@@ -100,7 +100,7 @@
             <!--SLIDER ITEM-->
             <div class="slider-item">
                 <div class="slide-image">
-                    <img src="{{asset('images/pagina-web-2/63.png')}}" class="slide-item__image" alt="app">
+                    <img src="{{asset('images/pagina-web-2/3.jpg')}}" class="slide-item__image" alt="app">
                 </div>
 
                 <div class="slide-content">
@@ -115,7 +115,7 @@
             <!--SLIDER ITEM-->
             <div class="slider-item">
                 <div class="slide-image">
-                    <img src="{{asset('images/marketing-turistico/1.png')}}" class="slide-item__image" alt="app">
+                    <img src="{{asset('images/marketing-turistico/1.jpg')}}" class="slide-item__image" alt="app">
                 </div>
 
                 <div class="slide-content">
@@ -130,7 +130,7 @@
             <!--SLIDER ITEM-->
             <div class="slider-item">
                 <div class="slide-image">
-                    <img src="{{asset('images/marketing-gastronomico/6.png')}}" class="slide-item__image" alt="app">
+                    <img src="{{asset('images/marketing-gastronomico/5.jpg')}}" class="slide-item__image" alt="app">
                 </div>
 
                 <div class="slide-content">
