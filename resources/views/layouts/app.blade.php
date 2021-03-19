@@ -1,17 +1,17 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <!--Meta Tags-->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 {{--    <meta name="keywords" content="agency, business, corporate, creative, freelancer, interior, minimal, modern, multipurpose, personal, portfolio, responsive, simple" />--}}
-    <meta name="description" content="Nebula hace realidad tus proyectos. Ofrecemos servicios integrales de marketing digital, aplicaciones web y móvil" />
+    <meta name="description" content="En Nebula Creativo somos una agencias de marketing especilizado en diseño web, branding y  marketing digital en Cusco." />
     <meta name="author" content="hidalgo" />
 
     <!--PAGE TITLE-->
-    <title>Páginas web Cusco | Marketing Digital</title>
+    <title>▷Agencia de marketing digital Cusco 2021</title>
 
-    <link rel="icon" type="image/ico" href="images/favicon.ico" />
+    <link rel="icon" type="image/ico" href="images/favicon1.ico" />
 
     <!--Plugins Css-->
     <link rel="stylesheet" href="{{asset('css/plugins.css')}}">

@@ -1,2 +1,6 @@
-User-agent: *
-Disallow:
+User-Agent: *
+
+Disallow: /www/
+
+
+Sitemap: http://www.nebulaperu.com/sitemap.xml

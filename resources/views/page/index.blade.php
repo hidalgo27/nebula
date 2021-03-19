@@ -1,17 +1,17 @@
 @extends('layouts.app')
 @section('content')
 
-
     <!--PIXI SLIDER START-->
     <div id="pixi-slider">
-
+        <div class="slider-count pb-row">
+            <h1>Marketing Digital en Cusco</h1>
+        </div>
         <div class="slider-wrapper">
             <!--SLIDER ITEM-->
             <div class="slider-item">
                 <div class="slide-image">
                     <img src="{{asset('images/pagina-web/9.jpg')}}" class="slide-item__image" alt="paginas web">
                 </div>
-
                 <div class="slide-content">
                     <div class="slide-content-inner">
                         <div class="item-cat">Desde s/.750</div>
@@ -141,10 +141,7 @@
                     </div>
                 </div>
             </div>
-
-
         </div>
-
         <!--PIXI SLIDER NAVIGATION START-->
         <div class="arrows-wrap">
             <div class="slider-nav slider-nav--prev parallax-wrap" data-nav="previous">
